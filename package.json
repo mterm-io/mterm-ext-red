@@ -1,0 +1,16 @@
+{
+  "name": "mterm-red",
+  "version": "1.0.0",
+  "description": "Make your mterm terminal red 10 seconds.",
+  "main": "mterm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mterm-io/mterm-ext-red.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
