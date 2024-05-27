@@ -1,6 +1,6 @@
 {
   "name": "mterm-red",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make your mterm terminal red 10 seconds.",
   "main": "mterm.js",
   "scripts": {
